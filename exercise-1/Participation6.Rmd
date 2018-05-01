@@ -1,0 +1,21 @@
+---
+title: "Participation 6"
+author: "Maegan Nevalsky"
+date: "4/30/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![](Blue.png)
+
+![](Clarity-color.png)
+
+![](Shape-by-cut.png)
+
+![](Size-by-price.png)
+
+![](Color-by-pricej.png)
+
